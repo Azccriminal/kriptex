@@ -4,8 +4,6 @@ Kriptex library is actually developed to create encrypted files more easily and 
 
 You can use the special symbol-based encryption method for Kriptex or you can encrypt directly with other encryption algorithms.
 
-## To contribute:
-[GitHub Repository](https://github.com/azccriminal/kriptex)
 
 ## To support:
 [PayPal Donation](https://www.paypal.com/donate/?hosted_button_id=NKPHAU3NY3GZU)
